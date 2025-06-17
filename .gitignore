@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Pickle and joblib files
+*.pkl
+*.joblib
+
+# Environment folders
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
